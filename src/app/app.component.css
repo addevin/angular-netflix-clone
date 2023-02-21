@@ -1,0 +1,11 @@
+.navbar .navbar-brand{
+    color: #E50914;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.navbar .nav-item .nav-link{
+    color: #E50914;
+}
+body{
+    overflow: hidden;
+}
